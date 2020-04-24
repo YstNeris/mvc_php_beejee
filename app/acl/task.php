@@ -3,9 +3,9 @@
 return [
 	'all' => [
 		'add',
-		'update',
 	],
 	'admin' => [
 		'edit',
+		'update',
 	]
 ];
